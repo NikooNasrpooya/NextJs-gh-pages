@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: 'export',
-    basePath: '/your-repo-name',
+    basePath: '/NextJs-gh-pages',
     images: {
       unoptimized: true,
     },
